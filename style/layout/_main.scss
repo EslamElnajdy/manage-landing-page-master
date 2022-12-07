@@ -1,7 +1,7 @@
 .main-container {
 
     height: 100vh;
-    background-image: url(./images/bg-tablet-pattern.svg);
+    background-image: url(../images/bg-tablet-pattern.svg);
     background-repeat: no-repeat;
     background-position: 123% 198%;
     background-size: 842px 830px ;
@@ -140,7 +140,7 @@
 
 
 .second-container {
-    background-image: url(./images/bg-tablet-pattern.svg);
+    background-image: url(../images/bg-tablet-pattern.svg);
     background-repeat: no-repeat;
     background-position: -500px 400px;
     height: 200vh;
@@ -266,7 +266,7 @@
             align-items: center;
 
             background-color: $Bright-Red;
-            background-image: url(./images/bg-simplify-section-desktop.svg);
+            background-image: url(../images/bg-simplify-section-desktop.svg);
             background-repeat: no-repeat;
             background-position: 300px -135px;
             
