@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;700&display=swap");
 .main-container {
   height: 100vh;
-  background-image: url(/images/bg-tablet-pattern.svg);
+  background-image: url(../images/bg-tablet-pattern.svg);
   background-repeat: no-repeat;
   background-position: 123% 198%;
   background-size: 842px 830px;
@@ -113,7 +113,7 @@
 }
 
 .second-container {
-  background-image: url(/images/bg-tablet-pattern.svg);
+  background-image: url(../images/bg-tablet-pattern.svg);
   background-repeat: no-repeat;
   background-position: -500px 400px;
   height: 200vh;
@@ -218,7 +218,7 @@
   justify-content: space-between;
   align-items: center;
   background-color: hsl(12deg, 88%, 59%);
-  background-image: url(/images/bg-simplify-section-desktop.svg);
+  background-image: url(../images/bg-simplify-section-desktop.svg);
   background-repeat: no-repeat;
   background-position: 300px -135px;
 }
